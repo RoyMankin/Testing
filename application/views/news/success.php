@@ -1,0 +1,1 @@
+<h1>Successfully News is updated.</h1>
